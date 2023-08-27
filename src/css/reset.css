@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%
+}
+
+body{
+  position: relative;
+}
+
+ul{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+.attribution {
+  font-size: 1.1rem;
+  text-align: center;
+  position: fixed;
+  bottom: 25px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
