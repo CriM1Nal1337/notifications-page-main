@@ -146,4 +146,14 @@ body, .container{
 
 .container .notification.no-read{
     background-color: var(--Verylightgrayishblue);
+    transition: 0.3s ease-in-out;
+}
+
+.red-point{
+    display: inline-block;
+    height: 5px;
+    width: 5px;
+    border-radius: 3px;
+    background-color: red;
+    margin-left: 5px;
 }
